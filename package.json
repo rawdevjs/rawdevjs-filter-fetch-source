@@ -1,6 +1,6 @@
 {
   "name": "rawdevjs-filter-fetch-source",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reads a files using the Fetch API",
   "main": "index.js",
   "scripts": {
